@@ -15,7 +15,7 @@ Sub RunUserInterface()
         }
         {
             TITLE : "Second row"
-            ContentList : oneRow
+            ContentList : oneRow1
         }
     ]
     scene.gridContent = ParseXMLContent(list)
