@@ -11,7 +11,7 @@ Sub RunUserInterface()
     list = [
         {
             TITLE : "First row"
-            ContentList : oneRow
+            ContentList : oneRow1
         }
         {
             TITLE : "Second row"
